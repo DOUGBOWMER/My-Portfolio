@@ -1,2 +1,2 @@
 # My-Portfolio
-Here are some example of my work!
+Here are some examples of my work!
